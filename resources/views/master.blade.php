@@ -159,7 +159,7 @@
 <body class="animsition">
     @include('header')
 
-    @yield('content')
+    <!-- @yield('content') -->
 	
     @include('footer')
 
