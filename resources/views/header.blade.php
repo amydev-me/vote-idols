@@ -1,4 +1,5 @@
 <!-- Header desktop -->
+<header>
 <div class="wrap-menu-header gradient1 trans-0-4">
 			<div class="container h-full">
 				<div class="wrap_header trans-0-3">
@@ -31,5 +32,5 @@
 					</div>
 				</div>
 			</div>
-		</div>
-	</header>
+</div>
+</header>

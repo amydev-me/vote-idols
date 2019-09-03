@@ -22,7 +22,7 @@
             <link rel="stylesheet" type="text/css" href="css/main.css">
         <!--===============================================================================================-->
         
-        <style type="text/css">
+    <style type="text/css">
 	.event_list_entry {
 	   display: inline-block;
 	    float: left;
