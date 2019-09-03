@@ -4,22 +4,22 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!--===============================================================================================-->
-        <link rel="icon" type="image/jpg" href="{{URL::asset('images/logo2.png')}}"/>
+        <link rel="icon" type="image/jpg" href="images/logo2.png"/>
         <!--===============================================================================================-->
-            <link rel="stylesheet" type="text/css" href="{{URL::asset('css/bootstrap.min.css')}}">
+            <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
         <!--===============================================================================================-->
-            <link rel="stylesheet" type="text/css" href="{{URL::asset('css/font-awesome.min.css')}}">
+            <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
         <!--===============================================================================================-->
-            <link rel="stylesheet" type="text/css" href="{{URL::asset('css/themify-icons.css')}}">
+            <link rel="stylesheet" type="text/css" href="css/themify-icons.css">
         <!--===============================================================================================-->
-            <link rel="stylesheet" type="text/css" href="{{URL::asset('css/animate.css')}}">
+            <link rel="stylesheet" type="text/css" href="css/animate.css">
         <!--===============================================================================================-->
-            <link rel="stylesheet" type="text/css" href="{{URL::asset('css/hamburgers.min.css')}}">
+            <link rel="stylesheet" type="text/css" href="css/hamburgers.min.css">
         <!--===============================================================================================-->
-            <link rel="stylesheet" type="text/css" href="{{URL::asset('css/animsition.min.css')}}">
-            <link rel="stylesheet" type="text/css" href="{{URL::asset('css/slick.css')}}">
-            <link rel="stylesheet" type="text/css" href="{{URL::asset('css/util.css')}}">
-            <link rel="stylesheet" type="text/css" href="{{URL::asset('css/main.css')}}">
+            <link rel="stylesheet" type="text/css" href="css/animsition.min.css">
+            <link rel="stylesheet" type="text/css" href="css/slick.css">
+            <link rel="stylesheet" type="text/css" href="css/util.css">
+            <link rel="stylesheet" type="text/css" href="css/main.css">
         <!--===============================================================================================-->
         
         <style type="text/css">
@@ -166,7 +166,7 @@
 					<!-- Logo -->
 					<div class="logo">
 						<a href="index.html">
-							<img src="{{URL::asset('images/logo2.png')}}" alt="IMG-LOGO" data-logofixed="{{URL::asset('images/logo2.png')}}" style="width: 80px;">
+							<img src="images/logo2.png'" alt="IMG-LOGO" data-logofixed="images/logo2.png" style="width: 80px;">
 						</a>
 					</div>
 
@@ -359,7 +359,7 @@
 							(+95) 94 301 1736
 						</li>
 						<li class="txt14 m-b-14">
-							<img src="{{URL::asset('images/logo2.png')}}" style="height: auto;width: 60px;">
+							<img src="images/logo2.png" style="height: auto;width: 60px;">
 						</li>
 					</ul>
 				</div>
@@ -388,17 +388,17 @@
 	<div id="dropDownSelect1"></div>
 
 <!--===============================================================================================-->
-	<script type="text/javascript" src="{{URL::asset('js/jquery-3.2.1.min.js')}}"></script>
+	<script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>
 <!--===============================================================================================-->
-	<script type="text/javascript" src="{{URL::asset('js/animsition.min.js')}}"></script>
+	<script type="text/javascript" src="js/animsition.min.js"></script>
 <!--===============================================================================================-->
-	<script type="text/javascript" src="{{URL::asset('js/popper.js')}}"></script>
-	<script type="text/javascript" src="{{URL::asset('js/bootstrap.min.js')}}"></script>
+	<script type="text/javascript" src="js/popper.js"></script>
+	<script type="text/javascript" src="js/bootstrap.min.js"></script>
 <!--===============================================================================================-->
-	<script type="text/javascript" src="{{URL::asset('js/slick.min.js')}}"></script>
-	<script type="text/javascript" src="{{URL::asset('js/slick-custom.js')}}"></script>
+	<script type="text/javascript" src="js/slick.min.js"></script>
+	<script type="text/javascript" src="js/slick-custom.js')}}"></script>
 
-	<script type="text/javascript" src="{{URL::asset('js/main.js')}}"></script>
+	<script type="text/javascript" src="js/main.js"></script>
 
 </body>
 </html>
