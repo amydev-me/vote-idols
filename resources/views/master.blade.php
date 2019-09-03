@@ -157,11 +157,11 @@
 </style>
 </head>
 <body class="animsition">
-    <!-- @include('header') -->
+    @include('header')
 
     @yield('content')
 	
-    <!-- @include('footer') -->
+    @include('footer')
 
 	<!-- Back to top -->
 	<div class="btn-back-to-top bg0-hov" id="myBtn">
