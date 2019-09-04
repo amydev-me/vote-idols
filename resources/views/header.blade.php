@@ -5,7 +5,7 @@
 				<div class="wrap_header trans-0-3">
 					<!-- Logo -->
 					<div class="logo">
-						<a href="index.html">
+						<a href="/">
 							<img src="images/logo2.png" alt="IMG-LOGO" data-logofixed="images/logo2.png" style="width: 80px;">
 						</a>
 					</div>
